@@ -25,10 +25,4 @@ Your contributions to this seminar repository are welcome! If you have any sugge
 
 We greatly appreciate your feedback and suggestions. Please provide your comments in the [Feedback](feedback.md) section.
 
-## License
-
-This seminar content is available under the [MIT License](LICENSE).
-
----
-
 We hope this seminar provides valuable insights into STMicroelectronics and the world of embedded systems for our ECE students. Enjoy your learning journey!
